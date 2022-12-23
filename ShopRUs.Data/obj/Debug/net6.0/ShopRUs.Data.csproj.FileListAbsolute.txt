@@ -1,0 +1,12 @@
+C:\Users\RECEP\Desktop\ShopsRUs\ShopRUs.Data\bin\Debug\net6.0\ShopRUs.Data.deps.json
+C:\Users\RECEP\Desktop\ShopsRUs\ShopRUs.Data\bin\Debug\net6.0\ShopRUs.Data.dll
+C:\Users\RECEP\Desktop\ShopsRUs\ShopRUs.Data\bin\Debug\net6.0\ShopRUs.Data.pdb
+C:\Users\RECEP\Desktop\ShopsRUs\ShopRUs.Data\obj\Debug\net6.0\ShopRUs.Data.csproj.AssemblyReference.cache
+C:\Users\RECEP\Desktop\ShopsRUs\ShopRUs.Data\obj\Debug\net6.0\ShopRUs.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RECEP\Desktop\ShopsRUs\ShopRUs.Data\obj\Debug\net6.0\ShopRUs.Data.AssemblyInfoInputs.cache
+C:\Users\RECEP\Desktop\ShopsRUs\ShopRUs.Data\obj\Debug\net6.0\ShopRUs.Data.AssemblyInfo.cs
+C:\Users\RECEP\Desktop\ShopsRUs\ShopRUs.Data\obj\Debug\net6.0\ShopRUs.Data.csproj.CoreCompileInputs.cache
+C:\Users\RECEP\Desktop\ShopsRUs\ShopRUs.Data\obj\Debug\net6.0\ShopRUs.Data.dll
+C:\Users\RECEP\Desktop\ShopsRUs\ShopRUs.Data\obj\Debug\net6.0\refint\ShopRUs.Data.dll
+C:\Users\RECEP\Desktop\ShopsRUs\ShopRUs.Data\obj\Debug\net6.0\ShopRUs.Data.pdb
+C:\Users\RECEP\Desktop\ShopsRUs\ShopRUs.Data\obj\Debug\net6.0\ref\ShopRUs.Data.dll

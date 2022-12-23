@@ -1,0 +1,15 @@
+C:\Users\RECEP\Desktop\ShopsRUs\ShopsRUs.Business\obj\Debug\net6.0\ShopsRUs.Business.csproj.AssemblyReference.cache
+C:\Users\RECEP\Desktop\ShopsRUs\ShopsRUs.Business\obj\Debug\net6.0\ShopsRUs.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RECEP\Desktop\ShopsRUs\ShopsRUs.Business\obj\Debug\net6.0\ShopsRUs.Business.AssemblyInfoInputs.cache
+C:\Users\RECEP\Desktop\ShopsRUs\ShopsRUs.Business\obj\Debug\net6.0\ShopsRUs.Business.AssemblyInfo.cs
+C:\Users\RECEP\Desktop\ShopsRUs\ShopsRUs.Business\obj\Debug\net6.0\ShopsRUs.Business.csproj.CoreCompileInputs.cache
+C:\Users\RECEP\Desktop\ShopsRUs\ShopsRUs.Business\bin\Debug\net6.0\ShopsRUs.Business.deps.json
+C:\Users\RECEP\Desktop\ShopsRUs\ShopsRUs.Business\bin\Debug\net6.0\ShopsRUs.Business.dll
+C:\Users\RECEP\Desktop\ShopsRUs\ShopsRUs.Business\bin\Debug\net6.0\ShopsRUs.Business.pdb
+C:\Users\RECEP\Desktop\ShopsRUs\ShopsRUs.Business\bin\Debug\net6.0\ShopRUs.Data.dll
+C:\Users\RECEP\Desktop\ShopsRUs\ShopsRUs.Business\bin\Debug\net6.0\ShopRUs.Data.pdb
+C:\Users\RECEP\Desktop\ShopsRUs\ShopsRUs.Business\obj\Debug\net6.0\ShopsRUs.Business.csproj.CopyComplete
+C:\Users\RECEP\Desktop\ShopsRUs\ShopsRUs.Business\obj\Debug\net6.0\ShopsRUs.Business.dll
+C:\Users\RECEP\Desktop\ShopsRUs\ShopsRUs.Business\obj\Debug\net6.0\refint\ShopsRUs.Business.dll
+C:\Users\RECEP\Desktop\ShopsRUs\ShopsRUs.Business\obj\Debug\net6.0\ShopsRUs.Business.pdb
+C:\Users\RECEP\Desktop\ShopsRUs\ShopsRUs.Business\obj\Debug\net6.0\ref\ShopsRUs.Business.dll
